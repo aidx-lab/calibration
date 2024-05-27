@@ -1,0 +1,24 @@
+theme: minima
+markdown: kramdown
+
+title: Automatic and Self-contained Robogt Calibration
+author: "johannes.tenhumberg@tum.de"
+
+header_pages:
+  - index.md
+  - _pages/tro24.md
+  - _pages/humanoids23.md
+  - _pages/humanoids22.md
+  - _pages/humanoids21.md
+  - _pages/aidx-lab.md
+
+include:
+    - _pages
+    
+plugins:
+  - jekyll-redirect-from
+
+exclude:
+    - .gitignore
+    - Gemfile
+    - README.md

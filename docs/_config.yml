@@ -1,7 +1,7 @@
 theme: minima
 markdown: kramdown
 
-title: Automatic and Self-contained Robogt Calibration
+title: Automatic and Self-contained Robot Calibration
 author: "johannes.tenhumberg@tum.de"
 
 header_pages:

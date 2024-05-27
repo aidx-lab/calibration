@@ -7,8 +7,8 @@ For more information, please refer to one of the papers below.
 
 ### [Bayesian View on Task-Oriented Robot Calibration](_pages/tro24.md)
 Submitted to T-RO 2024 by
-[Johannes Tenhumberg](https://scholar.google.com/citations?user=2RZuYZMAAAAJ){:target="_blank"} 
-[Darius Burschka](https://scholar.google.com/citations?user=y-MzVoUAAAAJ){:target="_blank"} and 
+[Johannes Tenhumberg](https://scholar.google.com/citations?user=2RZuYZMAAAAJ){:target="_blank"}, 
+[Darius Burschka](https://scholar.google.com/citations?user=y-MzVoUAAAAJ){:target="_blank"} and
 [Berthold Bäuml](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ){:target="_blank"}.
 
 ---
@@ -28,8 +28,8 @@ Humanoids 2023 by
 
 ### [Self-Contained Calibration of an Elastic Humanoid Upper Body Using Only a Head-Mounted RGB Camera](_pages/humanoids22.md)
 Humanoids 2022 by
-[Johannes Tenhumberg](https://scholar.google.com/citations?user=2RZuYZMAAAAJ){:target="_blank"} 
-[Dominik Winkelbauer](https://scholar.google.com/citations?user=kduGd8wAAAAJ){:target="_blank"} 
+[Johannes Tenhumberg](https://scholar.google.com/citations?user=2RZuYZMAAAAJ){:target="_blank"},
+[Dominik Winkelbauer](https://scholar.google.com/citations?user=kduGd8wAAAAJ){:target="_blank"},
 [Darius Burschka](https://scholar.google.com/citations?user=y-MzVoUAAAAJ){:target="_blank"} and 
 [Berthold Bäuml](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ){:target="_blank"}.
 

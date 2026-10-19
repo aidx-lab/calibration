@@ -7,7 +7,7 @@ For more information, please refer to one of the papers below.
 
 ### [Bayesian In-Situ Joint-Torque Sensor Calibration for Robotic Hands via Self-Consistency under Contact Constraints](_pages/humanoids26.md)
 Humanoids 2026 by
-[Leon Sievers\*](https://www.linkedin.com/in/leon-sievers/){:target="_blank"} and 
+[Leon Sievers](https://www.linkedin.com/in/leon-sievers/){:target="_blank"} and 
 [Berthold Bäuml](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ){:target="_blank"}.
 
 [Full Paper](https://arxiv.org/abs/2311.03957){:target="_blank"} / 

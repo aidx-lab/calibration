@@ -5,6 +5,17 @@ title: Overview
 This site complements our research on self-contained and automatic robot calibration. 
 For more information, please refer to one of the papers below.
 
+### [Bayesian In-Situ Joint-Torque Sensor Calibration for Robotic Hands via Self-Consistency under Contact Constraints](_pages/humanoids26.md)
+Humanoids 2026 by
+[Leon Sievers\*](https://www.linkedin.com/in/leon-sievers/){:target="_blank"} and 
+[Berthold Bäuml](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ){:target="_blank"}.
+
+[Full Paper](https://arxiv.org/abs/2311.03957){:target="_blank"} / 
+[Video](https://www.youtube.com/watch?v=dkG9xz1fhOU){:target="_blank"}
+
+![humanoids2023](assets/imgs/humanoids2023_hand.jpg)
+
+---
 ### [Bayesian View on Task-Oriented Robot Calibration](_pages/tro24.md)
 Submitted to T-RO 2024 by
 [Johannes Tenhumberg](https://scholar.google.com/citations?user=2RZuYZMAAAAJ){:target="_blank"}, 
